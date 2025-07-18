@@ -50,15 +50,8 @@ GitHub Stats 📊
 </p>
 
 GitHub Contribution Graph 🎮
-<p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bijaykrishnad/bijaykrishnad/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bijaykrishnad/bijaykrishnad/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bijaykrishnad/bijaykrishnad/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
-</p>
-
-<p align="center">
-Visitor count<br>
-<img src="https://profile-counter.glitch.me/bijaykrishnad/count.svg" />
-</p>
