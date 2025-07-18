@@ -16,7 +16,7 @@ Connect with Me 🤝
 Let's connect and build something amazing together!
 
 <p align="left">
-<a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/bijay-krishna-d)" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/bijay-krishna-d" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
 </p>
